@@ -161,6 +161,7 @@ public class UniversityManagementApplication {
 
 ```
 ### Output
-![image](https://github.com/user-attachments/assets/ca2e8a3e-d15a-451d-90cf-bab265bc7229)
+![Screenshot (105)](https://github.com/user-attachments/assets/1c2457ed-0a60-410f-afd6-441b64d84dcd)
+
 
 
